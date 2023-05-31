@@ -1,5 +1,5 @@
 ==================================Bienvenido a Hualkana Brute Force==================================
-
+*Esta herramienta es útil para hacer ataques a una red wifi y un servidor web DVWA usando Fuerza burta.
 
 Use:	./hualkana.sh		  	-> Para correr el script (recuerda que necesita privilegios de ejecucion)
 Use: 	./hualkana.sh -h		-> Para correr el script y mostrar el panel de ayuda sin limpiar la pantalla
