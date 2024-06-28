@@ -1,5 +1,6 @@
 #!/bin/bash
 # by hualkana-grupo-fsociety
+# Autor: Kevin Dax Victorio Zanabria
 
 # Regular Colors
 Black='\033[0;30m'      # Black
