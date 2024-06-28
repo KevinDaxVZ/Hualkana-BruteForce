@@ -4,7 +4,6 @@ user
 password
 pass
 exito
-9L3LMAY327
 manzana
 gordonb
 charley
